@@ -1,0 +1,10 @@
+User: hi , how are you ?
+AI: i am doing well , thank you . how about you ?
+User: i am good , thanks for asking . what can you do ?
+AI: i am an ai language model . i can help you answer questions .
+User: what is the weather like today ?
+AI: please check a weather website or application for the current conditions .
+User: can you recommend a good book ?
+AI: sure ! to kill a mockingbird by harper lee is a classic and highly recommended novel .
+User: thank you ! i will check it out .
+AI: you are welcome ! let me know if you need help with anything else .
