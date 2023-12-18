@@ -10,5 +10,5 @@
 ## 图片展示
 
 
-![图片描述1](Pic\book.png)
-![图片描述2](Pic\sales.jpg)
+![图片描述1](images/book.png)
+![图片描述2](images/sales.jpg)
