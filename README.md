@@ -13,4 +13,4 @@
 
 
 ![图片描述1](images/book.png)
-![图片描述2](images/sales.jpg)
+![图片描述2](images/sales.png)
